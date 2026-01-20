@@ -1,7 +1,10 @@
 #Name- Rishit Swain
 #Regd. No.- 24E119F02
 #Objective No.- 8
-
+#Input 10 integers from the keyboard into a list. The number to be searched is entered
+# through the keyboard by the user. Write a Python program to find if the number to be
+# searched is present in the list and if it is present, display the number of times it appears
+# in the list.
 numbers = []
 
 for i in range(10):

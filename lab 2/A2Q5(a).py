@@ -2,6 +2,11 @@
 #Regd. No.- 24E119F02
 #Objective No.- 5(a)
 
+# Demonstrate the following functions/methods which operate on lists in Python with
+# suitable examples.
+# i) list( ) ii) len( ) iii) count( ) iv) index ( ) v) append( ) vi) insert( ) vii) extend() viii) remove(
+# ) ix) pop( ) x) reverse( ) xi) sort( ) xii) copy( ) xiii) clear( )
+
 my_list = [3, 1, 4, 1, 5, 9, 2]
 
 print("Original list:", my_list)

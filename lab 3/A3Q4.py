@@ -1,6 +1,8 @@
 #Name- Amrendra Kumar
 #Regd. No.- 24E111B52
 #Objective No.- 4
+#Write a Python program Stack Simulation Using Memory
+
 
 stack=[0]*5
 TOP=-1

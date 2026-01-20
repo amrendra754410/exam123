@@ -1,6 +1,7 @@
 #Name- Amrendra Kumar
 #Regd. No.- 24E111B52
 #Objective No.- 12
+# Write a Python program to perform read and write operations on a file. 
 
 file = open("sample.txt", "w")
 content = input("Enter content to write in file: ")

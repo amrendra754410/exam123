@@ -1,6 +1,7 @@
 #Name- Amrendra Kumar
 #Regd. No.- 24E111B52
 #Objective No.- 15
+# Write a Python program to compute the number of characters, words and lines in a file
 
 filename = input("Enter filename: ")
 

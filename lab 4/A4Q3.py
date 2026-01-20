@@ -2,6 +2,8 @@
 #Regd. No.- 24E111B52
 #Objective No.- 3
 
+# To implement a branch instruction (BEQ – Branch if Equal to Zero) along with basic
+# arithmetic and control flow using a Python-based processor simulation
 mem=[0]*12
 pc=0
 mem[0]=0b000100000001

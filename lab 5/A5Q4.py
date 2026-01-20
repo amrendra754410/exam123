@@ -2,6 +2,9 @@
 #Regd. No.- 24E111B52
 #Objective 4
 
+# Design a CPU interprets in python that interpretes different arithmetic and logical
+# operations
+
 # This function simulates an 8-bit ALU and provides 16 operations
 
 # It is called by alu(op,a,b,cIn,display). Op defines the ALU function

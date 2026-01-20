@@ -1,6 +1,8 @@
 #Name- Amrendra Kumar
 #Regd. No.- 24E111B52
 #Objective No.- 11
+# Write a program to accept student name and marks from the keyboard and creates a
+# dictionary. Also display student marks by taking student name as input
 
 students = {}
 

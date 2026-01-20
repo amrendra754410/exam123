@@ -1,6 +1,10 @@
 #Name- Rishit Swain
 #Regd. No.- 24E119F02
 #Objective No.- 9
+# Write a Python program that randomly fills in 0s and 1s into a 4-by-4 matrix, prints the
+# matrix, and finds the first row and column with the most 1s. Here is a sample run of the
+# program
+
 
 import random
 

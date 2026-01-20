@@ -1,7 +1,8 @@
 #Name- Amrendra Kumar
 #Regd. No.- 24E111B52
 #Objective No.- 2(a)
-
+#To implement the Fetch, Decode and Execute cycles of a simple instruction processing
+#system using Python
 memory={0:"LOAD A",1:"ADD B",2:"STORE C",3:"HALT"}
 data={"A":28,"B":8,"C":9}
 

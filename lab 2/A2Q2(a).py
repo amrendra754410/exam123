@@ -1,6 +1,8 @@
 #Name- Amrendra Kumar
 #Regd. No.- 24E111B52
 #Objective No.- 2(a)
+# Write a program to accept some string from the keyboard and display its characters by
+# index wise (both positive and negative index).
 
 test_string = "  Hello World  "
 

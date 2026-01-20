@@ -1,6 +1,8 @@
 #Name- Rishit Swain
 #Regd. No.- 24E119F02
 #Objective No.- 3
+# Write a Python program to access each character of string in forward and backward
+# direction by using while loop
 
 string = input("Enter a string: ")
 

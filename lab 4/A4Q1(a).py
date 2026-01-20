@@ -1,6 +1,8 @@
 #Name- Amrendra Kumar
 #Regd. No.- 24E111B52
 #Objective No.- 1(a)
+#To simulate the Fetch Cycle and Decode Cycle of a simple instruction execution
+#process using Python.
 
 memory={0:"LDRL 10",1:"ADD 7",2:"STORE 9",3:"STOP"}
 PC=0

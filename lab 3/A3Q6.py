@@ -1,6 +1,7 @@
 #Name- Rishit Swain
 #Regd. No.- 24E119F02
 #Objective No.- 6
+#Write a Python program symbolic instruction execution using variable names.
 
 program=[("LOAD","X"),("ADD","Y"),("STORE","SUM"),("HLT",None)]
 memory={"X":5,"Y":10,"SUM":0}
