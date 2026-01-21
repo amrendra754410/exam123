@@ -1,5 +1,3 @@
-#Name- Amrendra Kumar
-#Regd. No.- 24E111B52
 #Objective No.- 10
 # Write a Python program to enter name and percentage marks in a dictionary and display
 # information on the scree

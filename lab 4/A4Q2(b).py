@@ -1,5 +1,3 @@
-#Name- Amrendra Kumar
-#Regd. No.- 24E111B52
 #Objective No.- 2(b)
 #To implement the Fetch, Decode and Execute cycles of a simple instruction processing
 #system using Python

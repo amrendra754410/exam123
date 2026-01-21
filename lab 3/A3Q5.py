@@ -1,5 +1,3 @@
-#Name- Amrendra Kumar
-#Regd. No.- 24E111B52
 #Objective No.- 5
 #Write a Python program to simulate named memory variables using the concept of
 #dictionary

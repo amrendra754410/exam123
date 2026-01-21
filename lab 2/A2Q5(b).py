@@ -1,5 +1,3 @@
-#Name- Rishit Swain
-#Regd. No.- 24E119F02
 #Objective No.- 5(b)
 # Define a function that eliminates the duplicate values in the list. Write a Python program
 # that reads in ten integers, invokes the method, and displays the result.

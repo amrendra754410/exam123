@@ -1,5 +1,3 @@
-#Name- Amrendra Kumar
-#Regd. No.- 24E111B52
 #Objective No.- 2
 #Write a menu-driven interactive Python program to create, read, and write memory.
 

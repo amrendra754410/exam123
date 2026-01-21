@@ -1,5 +1,3 @@
-#Name- Amrendra Kumar
-#Regd. No.- 24E111B52
 #Objective No.- 3
 #Write a Python program for the Memory Simulator with Arithmetic Operations
 

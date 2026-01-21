@@ -1,5 +1,3 @@
-#Name- Rishit Swain
-#Regd. No.- 24E119F02
 #Objective No.- 4
 # Write a Python program to perform basic encryption on a given string.
 # For example, replacing each character in a string with its equivalent character is as by

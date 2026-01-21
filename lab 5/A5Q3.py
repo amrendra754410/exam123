@@ -1,5 +1,3 @@
-#Name- Amrendra Kumar
-#Regd. No.- 24E111B52
 #Objective 3
 # Design a CPU interpreter in python for the addition of first ten numbers.
 

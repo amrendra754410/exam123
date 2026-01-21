@@ -1,5 +1,3 @@
-#Name- Rishit Swain
-#Regd. No.- 24E119F02
 #Objective No.- 6
 # Write a Python program to enter elements in an empty List of size ‘n’ and find the
 # maximum number in the list.

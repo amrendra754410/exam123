@@ -1,5 +1,3 @@
-#Name- Amrendra Kumar
-#Regd. No.- 24E111B52
 #Objective 4
 
 # Design a CPU interprets in python that interpretes different arithmetic and logical

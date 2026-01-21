@@ -1,5 +1,3 @@
-#Name- Rishit Swain
-#Regd. No.- 24E119F02
 #Objective No.- 5(a)
 
 # Demonstrate the following functions/methods which operate on lists in Python with

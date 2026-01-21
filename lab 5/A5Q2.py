@@ -1,5 +1,3 @@
-#Name- Amrendra Kumar
-#Regd. No.- 24E111B52
 #Objective 2
 # Design a CPU interpreter in python that interprets the data transfer and branch
 # instructions

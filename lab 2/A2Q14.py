@@ -1,5 +1,3 @@
-#Name- Amrendra Kumar
-#Regd. No.- 24E111B52
 #Objective No.- 14
 #  Write a program that reads a file, breaks each line into words, strips whitespace and pun
 # ct-uation from the words, and converts them to lowercase.

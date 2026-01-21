@@ -1,5 +1,3 @@
-#Name- Rishit Swain
-#Regd. No.- 24E119F02
 #Objective No.- 6
 #Write a Python program symbolic instruction execution using variable names.
 

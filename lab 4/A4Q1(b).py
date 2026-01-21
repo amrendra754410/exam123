@@ -1,5 +1,3 @@
-#Name- Amrendra Kumar
-#Regd. No.- 24E111B52
 #Objective No.- 1(b)
 #To simulate the Fetch Cycle and Decode Cycle of a simple instruction execution
 #process using Python.

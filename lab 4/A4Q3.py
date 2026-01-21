@@ -1,5 +1,3 @@
-#Name- Amrendra Kumar
-#Regd. No.- 24E111B52
 #Objective No.- 3
 
 # To implement a branch instruction (BEQ – Branch if Equal to Zero) along with basic

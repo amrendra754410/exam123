@@ -1,5 +1,3 @@
-#Name- Amrendra Kumar
-#Regd. No.- 24E111B52
 #Objective No.- 2(b)
 # Demonstrate the following functions/methods which operate on strings in Python with
 # suitable examples:
